@@ -1,6 +1,6 @@
 # MyWork
 
-<h2>Week02 Folder Cotents:</h2>  
+Week02 Folder Cotents: 
 
 addOne.py - Add one to input.  
 bmi.py - A simple BMI calculator.  
