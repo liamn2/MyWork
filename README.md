@@ -11,4 +11,4 @@ multiply.py - Provides multiplicated output.
 
 Week03 Folder Contents:  
 
-secondstring.py - 
+secondstring.py - Code that takes input sentence and outputs every second letter in reverse order.
