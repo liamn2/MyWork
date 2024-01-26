@@ -1,6 +1,6 @@
 # MyWork
 
-Week02 Folder Contents: 
+<b>Week02 Folder Contents:<\b> 
 
 addOne.py - Add one to input.  
 bmi.py - A simple BMI calculator.  
@@ -9,6 +9,6 @@ hello2.py - Text addition in print function.
 helloWorld.py - Print "Hello World!"  
 multiply.py - Provides multiplicated output.
 
-Week03 Folder Contents:  
+<b>Week03 Folder Contents:<\b>  
 
 secondstring.py - Code that takes input sentence and outputs every second letter in reverse order.
