@@ -1,4 +1,4 @@
-# MyWork
+# Python Fundamentals
 
 <b>Week02 Folder Contents:</b> 
 
