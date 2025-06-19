@@ -14,3 +14,4 @@ multiply.py - Provides multiplicated output.
 secondstring.py - Code that takes input sentence and outputs every second letter in reverse order.  
 
 <b>18/06/2025 (Wednesday):</b> Added notes on classes and binary trees in Python. Will use MyWork repository for Python study from now on. 
+<b>19/06/2025 (Thursday):</b> Added ML.py for OpenCV project. 
