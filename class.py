@@ -16,3 +16,9 @@ class Node:
     self.left = None
     self.right = None
     self.val = key
+
+
+class myClass:
+  def __init__(self, String):
+    self.val = String
+    
