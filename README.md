@@ -17,5 +17,6 @@ secondstring.py - Code that takes input sentence and outputs every second letter
 <b>19/06/2025 (Thursday):</b> Added ML.py for OpenCV project.  
 <b>22/06/2025 (Sunday):</b> Worked on class and def.  
 <b>09/07/2025 (Wednesday)</b>: 3Sum.py created. Calculates 3 unique values from array to sum. minMoves.py is a partial solution to Leetcode Prob. #3609. Need to better understand co-ordinate navigation.  
+<b>10/07/2025 (Thursday)</b>: Created sparkhadoop.py to understand Hadoop through Python. 
 
 
